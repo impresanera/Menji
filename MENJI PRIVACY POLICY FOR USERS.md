@@ -8,11 +8,11 @@ Our goal at Menji is to make your life easier and better by offering the best tr
 
 Please read the following statement to learn more about how we collect and disseminate information. Please be aware that our privacy policies are subject to change at any time and maybe without notice. Please examine this policy regularly to ensure you are informed of any changes.
 
-## **1. TO WHOM DOES THIS PRIVACY POLICY APPLY TO**
+## 1. TO WHOM DOES THIS PRIVACY POLICY APPLY TO
 
 This policy applies to all users of Menji’s services, including those who use the Menji app, website, features, or other services, regardless of where they may be located, such as Drivers (including driver applicants who have not completed their registration process) and passengers. Unless it is indicated that a separate privacy policy will apply to a specific service, feature, or geographical area, this privacy policy shall apply to all users of the Menji Platform.
 
-## **2. THE INFORMATION WE COLLECT**
+## 2. THE INFORMATION WE COLLECT
 
 The information we collect from users may broadly be classified into three, namely:
 
@@ -20,13 +20,13 @@ The information we collect from users may broadly be classified into three, name
 - Information we collect when you use the Menji platform.
 - Information we collect from 3rd parties.
 
-### **2.1. Information Provided by Users**
+### 2.1. Information Provided by Users
 
 When users create or update their Menji accounts, we collect information such as their name, email, phone number, username, and password, address (you may choose to specify either home or work), demographic data such as gender, age, profile picture, payment or banking information (including related payment verification information), driver’s license and other government-issued identity documents (which may indicate a document number as well as the date of birth, gender, and photo of the user). Information such as car insurance details, driving history or criminal record, emergency contact information, user settings, and proof of medical fitness to provide services while using the Menji platform may also be required.
 
 We also record all of the information users offer in their feedback when they rate and provide feedback on trips, Passengers, Drivers, and the way the App or service works. We collect whatever information is supplied when users contact us or we contact users, including the contents of any messages or attachments sent to us through our customer support.
 
-### **2.2. Information we collect when you use the Menji platform**
+### 2.2. Information we collect when you use the Menji platform
 
 **Location data**: GPS and location data is so integral to the functioning of the ride-hailing service, therefore, users may need to grant device permissions to enable us to access their current location to ensure optimal performance of our services. Users can turn off their device’s GPS and other location-tracking features, however, a user who deactivates his or her device’s GPS or location data may not be able to optimise Menji’s services, and if such a user is a driver, he or she would not be allowed to use the Menji platform.
 
@@ -40,7 +40,7 @@ Cookies, tags, and other tracking technologies and data analytics that create an
 
 **Communication Data**: Through Menji’s mobile apps and websites, users may communicate with one another and with Menji. Drivers and passengers may communicate with one another by calling or texting and Menji obtains some information about the calls, messages, or other communications to provide this service, such as the date and time of the communications as well as the content of the communications. Menji may also use this information for customer service (in resolving user complaints), security, and safety, to improve our services, features, and analytics.
 
-### **2.3. Information we collect from 3rd parties**
+### 2.3. Information we collect from 3rd parties
 
 Some 3rd party service providers such as financial service providers, GPS and Geolocation service providers, Background check providers, insurance partners, and marketing providers, amongst others provide us with data for both essential components of the Menji Platform and additional services, programs, loyalty perks, and promotions that can improve your user experience. These 3rd party services provide us with the following information about users’:
 
@@ -57,7 +57,7 @@ Some other 3rd parties that may not be businesses or organisations we work with,
 - Menji users request services for or on behalf of other users, or when they enable such users to request or receive services through their accounts. This includes owners of Menji for Business accounts.
 - Users participate in our referral programs. For example, when a user refers to another person, we receive the referred person’s (personal) data from that user.
 
-## ****3. HOW WE USE THE INFORMATION WE COLLECT****
+## 3. HOW WE USE THE INFORMATION WE COLLECT
 
 We collect personal information to provide efficient and convenient transportation and other products and services to our users and for the following specific reasons:
 
@@ -71,7 +71,7 @@ We collect personal information to provide efficient and convenient transportati
 - To offer users promotional or marketing and non-promotional communications by informing users about Menji services, features, promotions, giveaways, surveys, news, updates, and events through various methods, including email, text messages, push notifications, and in-app communications and ads on 3rd party platforms. We may use the information we collect, alone or in combination with information from our advertising partners to personalise and improve the marketing communications (including ads) we send to users on Menji’s apps and websites, based on their location, use of Menji’s services, preferences, and settings
 - You may decide to opt-out of or not partake in any marketing and promotional communications on Menji and its advertising partners. Please note that after opting out, you may still receive non-marketing and non-promotional messages, including but not limited to product updates and service notices
 
-## **4. COOKIES AND HOW WE USE THEM**
+## 4. COOKIES AND HOW WE USE THEM
 
 A cookie is a text file with small pieces of data that we allow on your device if you agree or do not opt out of using it.
 
@@ -83,7 +83,7 @@ Cookies allow us to distinguish one user from another user of our website and mo
 
 Our approved third parties may also set cookies when you use our marketplace. Third parties include search engines, providers of analytics services, social media networks, advertising companies, and other service providers
 
-## ****5. HOW WE STORE, AND FOR HOW LONG WE RETAIN THE PERSONAL INFORMATION OF USERS****
+## 5. HOW WE STORE, AND FOR HOW LONG WE RETAIN THE PERSONAL INFORMATION OF USERS
 
 We take reasonable steps to protect your personal information as much as we can, however, no security measure can be guaranteed to be completely effective, and we cannot guarantee the protection of your data against unauthorised invasions, and cyber-threats, hackers, or 3rd party activities.
 
@@ -93,7 +93,7 @@ Users may request deletion of their information at any time, via email, unless t
 
 Menji will respond to a user’s request for access or deletion within 60 days of receiving that request. If we require more time, we will inform you of the reason for the extension period.
 
-## ****6. HOW WE SHARE AND TRANSMIT USER INFORMATION****
+## 6. HOW WE SHARE AND TRANSMIT USER INFORMATION
 
 We understand that data transmission over the internet is not entirely safe. While we make every effort to protect your data, we cannot guarantee the security of any data transmitted to our platform, therefore any transmission of data necessary for the proper functioning of the Menji service is done at your own risk. We shall employ stringent procedures and security measures to prevent unauthorised access once we have received the Data. In the event of a cyber-security threat, we may give warnings and instructions in compliance with the relevant laws as soon as practicable.
 
@@ -118,7 +118,7 @@ Information Sharing for Legal Purposes or as required by Law: Menji may share yo
 
 With Consent: We may disclose your personal information to interact with a third party or for other purposes when a user’s permission has been obtained.
 
-## ****7. WE UNDERTAKE NOT TO DO THE FOLLOWING WITH USER’S DATA****
+## 7. WE UNDERTAKE NOT TO DO THE FOLLOWING WITH USER’S DATA
 
 Menji would never take advantage of your trust in us in availing us of your personal information, knowing that with the right to privacy constantly under threat in contemporary times, there is no better action for businesses in our line of activity than to lean into data protection. We understand that your personal data is an asset in this time and age, therefore, we undertake to not do the following with your personal data:
 
@@ -129,20 +129,20 @@ Menji would never take advantage of your trust in us in availing us of your pers
 
 To respond to some rights we will need to verify your request either by asking you to log in and authenticate your account or otherwise verify your identity by providing information about yourself or your account. Authorised agents can request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and confirmation that you provided the agent permission to submit the request.
 
-## ****8. YOUR RIGHTS AND CHOICES REGARDING YOUR DATA****
+## 8. YOUR RIGHTS AND CHOICES REGARDING YOUR DATA
 
 The rights users have to the Menji App include the right to access the Menji App; the right to request copies of personal information Menji has in its possession (subject to the overriding duty of Menji to protect the information of others); the right to update, correct, or rectify and restrict us from processing information. You also have the right to ask that we transfer the information you gave us from one organisation to another, or give it to you, in certain circumstances, however, this only applies to information you have given us yourself.
 
 We understand how optimal it is for users to stay in control of their personal data. Menji, therefore, provides users with control through the app, where they can view their personal information including profile data and trip history. We also offer in-app settings like privacy settings for location and profile information, in-app device permissions, in-app rating pages, marketing choices, and transparent cookie consent controls on our website, to enable users to make informed decisions about their data. Users can access, control, delete, as well as exercise other data rights that give them certain control over their personal information whether through the website, the app, or their device’s settings.
 
-## ****9. CHANGES TO THIS PRIVACY POLICY****
+## 9. CHANGES TO THIS PRIVACY POLICY
 
 We may update or make changes to this privacy policy as the Menji Platform and services grow, as the data and information privacy laws in Nigeria evolve, and in keeping up with trends. However, you shall be informed of any such material changes through the website and app platforms or via email, text message, or any other method of notification you opt for. We advise users to periodically review this notice as frequently as possible for the latest information on our privacy policies. To the fullest extent permitted by law, the use of our services after an update amounts to consent to the updated policy.
 
-## ****10. REGULATORY FRAMEWORK FOR DATA PROTECTION WE ADHERE TO****
+## 10. REGULATORY FRAMEWORK FOR DATA PROTECTION WE ADHERE TO
 
 Menji adheres to several regulatory policies and Laws in Nigeria, including but not limited to, the Nigeria Data Protection Regulation; the Cybercrimes (Prevention & Prohibition Act), National Identity Management Commission Act, National Cybersecurity Policy and Strategy, Consumer Protection Framework, etc.
 
-## ****11. WE LOOK FORWARD TO HEARING FROM YOU****
+## 11. WE LOOK FORWARD TO HEARING FROM YOU
 
 If you have any questions or concerns about your privacy or require support for anything contained in this policy, including any disputes relating to the processing of personal data, contact us via our support lines or our email: [support@menji.com](mailto:support@menji.com).
